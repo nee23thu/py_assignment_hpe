@@ -1,0 +1,20 @@
+Sentence: Python is fun
+Word count: 3
+Longest word: ['Python']
+Palindrome: None
+
+Sentence: Radar is a palindrome
+Word count: 4
+Longest word: ['palindrome']
+Palindrome: Radar
+
+Sentence: The quick brown fox jumps over the lazy dog
+Word count: 9
+Longest word: ['quick', 'brown', 'jumps']
+Palindrome: None
+
+Sentence: A man a plan a canal Panama
+Word count: 7
+Longest word: ['Panama']
+Palindrome: None
+
